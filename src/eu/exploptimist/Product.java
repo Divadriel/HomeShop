@@ -5,10 +5,24 @@ public class Product {
     private String description;
     private double price;
 
+    public Product(String name, String description, double price) {
+        this.name = name;
+        this.description = description;
+        this.price = price;
+    }
+
+    /**
+     * Display a full description of the product
+     */
     public void look() {
 
     }
 
+    /**
+     * Add the product to a bill
+     * @param bill
+     * @param quantity
+     */
     public void buy(Bill bill, Integer quantity) {
 
     }
