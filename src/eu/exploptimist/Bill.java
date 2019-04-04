@@ -31,7 +31,9 @@ public class Bill {
     }
 
 
+    public void generate(Writer writerMock) {
+    }
 
-
-
+    public double getTotal() {
+    }
 }
