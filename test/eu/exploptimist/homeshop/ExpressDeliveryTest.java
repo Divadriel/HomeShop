@@ -1,4 +1,4 @@
-package eu.exploptimist;
+package eu.exploptimist.homeshop;
 
 import org.junit.jupiter.api.Test;
 

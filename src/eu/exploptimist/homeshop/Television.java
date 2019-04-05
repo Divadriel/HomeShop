@@ -1,4 +1,4 @@
-package eu.exploptimist;
+package eu.exploptimist.homeshop;
 
 public class Television extends Product {
     private int size;
