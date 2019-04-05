@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d333d399-bf06-4a75-bb57-dac18dcd4c49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eu/exploptimist/homeshop/web/HelloWorldServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeShop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeShop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/eu/exploptimist/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eu/exploptimist/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/exploptimist/homeshop/Bill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eu/exploptimist/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/exploptimist/homeshop/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eu/exploptimist/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/exploptimist/homeshop/Delivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eu/exploptimist/DirectDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/exploptimist/homeshop/DirectDelivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eu/exploptimist/ExpressDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/exploptimist/homeshop/ExpressDelivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eu/exploptimist/FileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/exploptimist/homeshop/FileWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eu/exploptimist/Fridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/exploptimist/homeshop/Fridge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eu/exploptimist/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/exploptimist/homeshop/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eu/exploptimist/NoProductInBillException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/exploptimist/homeshop/NoProductInBillException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eu/exploptimist/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/exploptimist/homeshop/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eu/exploptimist/RelayDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/exploptimist/homeshop/RelayDelivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eu/exploptimist/TakeAwayDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/exploptimist/homeshop/TakeAwayDelivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eu/exploptimist/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/exploptimist/homeshop/Television.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eu/exploptimist/Writer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/exploptimist/homeshop/Writer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/eu/exploptimist/BillTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/eu/exploptimist/homeshop/BillTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/eu/exploptimist/ExpressDeliveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/eu/exploptimist/homeshop/ExpressDeliveryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/eu/exploptimist/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/eu/exploptimist/homeshop/ProductTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/eu/exploptimist/RelayDeliveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/eu/exploptimist/homeshop/RelayDeliveryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -70,20 +47,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/eu/exploptimist/homeshop/web/HelloWorldServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            <state relative-caret-position="187">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="153">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -169,14 +149,24 @@
         <option value="$PROJECT_DIR$/HomeShop.iml" />
         <option value="$PROJECT_DIR$/src/main/java/eu/exploptimist/Main.java" />
         <option value="$PROJECT_DIR$/src/eu/exploptimist/homeshop/Bill.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/eu/exploptimist/homeshop/web/HelloWorldServlet.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="HomeShop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="HomeShop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -245,7 +235,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554481477615" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554481980579" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
   </component>
@@ -402,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554478231184</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added maven support + new package (web)">
+      <created>1554481696042</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554481696042</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -426,7 +423,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49156117" visible="true" weight="0.15637584" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49156117" visible="true" weight="0.15637584" />
       <window_info id="Structure" order="1" sideWeight="0.5084388" side_tool="true" weight="0.15637584" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -491,7 +488,8 @@
     <MESSAGE value="added bill generation system" />
     <MESSAGE value="added test for generating bill with empty product list" />
     <MESSAGE value="added bill exception + corrected error while compiling" />
-    <option name="LAST_COMMIT_MESSAGE" value="added bill exception + corrected error while compiling" />
+    <MESSAGE value="added maven support + new package (web)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added maven support + new package (web)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/eu/exploptimist/homeshop/Fridge.java">
@@ -678,17 +676,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/eu/exploptimist/homeshop/web/HelloWorldServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/eu/exploptimist/homeshop/web/HelloWorldServlet.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
