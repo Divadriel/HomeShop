@@ -1,4 +1,4 @@
-package eu.exploptimist.homeshop;
+package eu.exploptimist;
 
 import java.io.IOException;
 import java.nio.file.Files;

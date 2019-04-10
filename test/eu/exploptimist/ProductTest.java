@@ -1,4 +1,4 @@
-package eu.exploptimist.homeshop;
+package eu.exploptimist;
 
 import static org.junit.jupiter.api.Assertions.*;
 

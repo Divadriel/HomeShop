@@ -1,4 +1,4 @@
-package eu.exploptimist.homeshop;
+package eu.exploptimist;
 
 import java.util.HashMap;
 import java.util.Map;

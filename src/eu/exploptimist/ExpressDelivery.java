@@ -1,4 +1,4 @@
-package eu.exploptimist.homeshop;
+package eu.exploptimist;
 
 public class ExpressDelivery implements Delivery {
     private String city;
